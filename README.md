@@ -77,4 +77,4 @@ BacktestingSimpleTradingStrategy/
 ```
 --- 
 
-By: Adithya Sai Srinivas
+By: Lova Reddy
